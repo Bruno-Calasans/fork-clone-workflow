@@ -1,4 +1,4 @@
 # fork-clone-workflow
 
 # Objective
-this is a repo to demonstraing fork-clone workflow
+this is a repo to demonstring fork-clone workflow
